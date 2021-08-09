@@ -8,3 +8,5 @@ Generating noise(synthetic) images using generator and concatenating it with ori
 
 Train discriminator on the o/p of generative model and classify noise and original
 
+After creating both networks, combine then to create a adversial network 
+
